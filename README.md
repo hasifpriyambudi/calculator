@@ -1,2 +1,2 @@
 # calculator
-Tugas kuliah membuat kalkulator menggunakan c#
+Tugas membuat kalkulator menggunakan c#
